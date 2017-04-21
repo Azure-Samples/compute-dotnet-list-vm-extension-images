@@ -4,7 +4,7 @@ platforms: .Net
 author: anuchandy
 ---
 
-#Getting Started with Compute - List Virtual Machine Extension Images - in .Net #
+# Getting Started with Compute - List Virtual Machine Extension Images - in .Net #
 
           List all virtual machine extension image publishers and
           list all virtual machine extension images published by Microsoft.OSTCExtensions, Microsoft.Azure.Extensions
