@@ -1,0 +1,4 @@
+C:\Sources\dotnet-samples\compute-dotnet-list-vm-extension-images\bin\Debug\net452\ListVirtualMachineExtensionImages.runtimeconfig.json
+C:\Sources\dotnet-samples\compute-dotnet-list-vm-extension-images\bin\Debug\net452\ListVirtualMachineExtensionImages.runtimeconfig.dev.json
+C:\Sources\dotnet-samples\compute-dotnet-list-vm-extension-images\obj\Debug\net452\ListVirtualMachineExtensionImages.csproj.ListVirtualMachineExtensionImages.exe.config
+C:\Sources\dotnet-samples\compute-dotnet-list-vm-extension-images\obj\Debug\net452\ListVirtualMachineExtensionImages.csproj.CoreCompileInputs.cache
