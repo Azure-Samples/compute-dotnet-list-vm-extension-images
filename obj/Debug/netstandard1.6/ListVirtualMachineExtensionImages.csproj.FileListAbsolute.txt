@@ -1,2 +1,0 @@
-C:\Sources\dotnet-samples\compute-dotnet-list-vm-extension-images\bin\Debug\netstandard1.6\ListVirtualMachineExtensionImages.deps.json
-C:\Sources\dotnet-samples\compute-dotnet-list-vm-extension-images\obj\Debug\netstandard1.6\ListVirtualMachineExtensionImages.csproj.CoreCompileInputs.cache
