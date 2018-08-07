@@ -1,10 +1,10 @@
 ---
 services: Compute
-platforms: .Net
+platforms: dotnet
 author: anuchandy
 ---
 
-# Getting Started with Compute - List Virtual Machine Extension Images - in .Net #
+# Getting started on listing virtual machine extension images in C# #
 
           List all virtual machine extension image publishers and
           list all virtual machine extension images published by Microsoft.OSTCExtensions, Microsoft.Azure.Extensions
@@ -15,7 +15,7 @@ author: anuchandy
 
 To run this sample:
 
-Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-sdk-for-net/blob/Fluent/AUTH.md).
+Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-libraries-for-java/blob/master/AUTH.md).
 
     git clone https://github.com/Azure-Samples/compute-dotnet-list-vm-extension-images.git
 
