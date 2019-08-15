@@ -4,16 +4,16 @@ languages:
 - csharp
 products:
 - azure
-services: Compute
-platforms: dotnet
-author: yaohaizh
+extensions:
+- services: Compute
+- platforms: dotnet
 ---
 
 # Getting started on listing virtual machine extension images in C# #
 
-          List all virtual machine extension image publishers and
-          list all virtual machine extension images published by Microsoft.OSTCExtensions, Microsoft.Azure.Extensions
-          by browsing through extension image publishers, types, and versions.
+ List all virtual machine extension image publishers and
+ list all virtual machine extension images published by Microsoft.OSTCExtensions, Microsoft.Azure.Extensions
+ by browsing through extension image publishers, types, and versions.
 
 
 ## Running this Sample ##
