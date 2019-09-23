@@ -7,6 +7,7 @@ products:
 extensions:
 - services: Compute
 - platforms: dotnet
+description: "List all virtual machine extension image publishers and list all virtual machine extension images published by Microsoft."
 ---
 
 # Getting started on listing virtual machine extension images in C# #
